@@ -1,0 +1,9 @@
+{
+  "firebase": "giphy-video-ornament",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
